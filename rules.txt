@@ -1,0 +1,3 @@
+deactivating existing rules.
+===========================
+https://sqa.stackexchange.com/questions/24734/how-to-deactivate-a-rule-in-sonarqube/24736
